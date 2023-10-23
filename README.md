@@ -1,4 +1,4 @@
-### Artem Dolya
+# Artem Dolya
 
 ## Software Engineer | Technical Lead | Architect | DevOps
 
