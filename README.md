@@ -1,6 +1,6 @@
 # Artem Dolya
 
-## Software Engineer | Technical Lead | Architect | DevOps
+## Principal Software Engineer | Software Architect | Solutions Architect | Cloud Architect | DevOps
 
 Driven by a passion that extends beyond coding into the realm of execution, I specialize in steering development projects from initiation through to high-stakes production. My focus is not just on delivery, but on ensuring robust, highly-available systems. Transforming code into dependable solutions is where my passion meets purpose.
 
