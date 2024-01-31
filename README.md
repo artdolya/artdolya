@@ -66,8 +66,12 @@ Driven by a passion that extends beyond coding into the realm of execution, I sp
 <br />-->
 
 ---
+<details>
+  <summary>Github Stats ⚡</summary>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=artdolya&show_icons=true&theme=transparent)
+  <a href="#">![GitHub stats](https://github-readme-stats.vercel.app/api?username=artdolya&show_icons=true&theme=transparent&count_private=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artdolya&layout=compact&show_icons=true&theme=transparent&count_private=true)</a>
+</details>
 
 <!--
 **artdolya/artdolya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
