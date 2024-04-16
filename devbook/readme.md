@@ -1,27 +1,6 @@
-# Method multiple arguments
+# Programming
 
-### C#
-```csharp
-public double Summ(params double[] values)
-{
-    double result = 0;
-    foreach(double val in values)
-    {
-        result += val;
-    }
-    return result; 
-}
-```
-
-### JAVA
-```java
-public double Summ(double... values)
-{
-    double result = 0;
-    for(double val: values)
-    {
-        result += val;
-    }
-    return result; 
-}
-```
+1. Classes
+    1. Modifiers
+    2. Methods
+        1. [Methods with multiple arguments](classes/methods.md)    
