@@ -3,4 +3,18 @@
 1. Classes
     1. Modifiers
     2. Methods
-        1. [Methods with multiple arguments](classes/methods.md)    
+        1. [Methods with multiple arguments](classes/methods.md)
+    2. Pattern Matching
+           ```csharp
+               if (product is Drink as drink)
+               {
+                   //  drink.Volume 
+               }
+           ```
+           ```
+               if (product is Drink drink)
+               {
+                   //  drink.Volume 
+               }
+           ```
+    4.    
